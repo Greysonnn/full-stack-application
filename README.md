@@ -2,11 +2,11 @@
 Frontend UI | Backend | Database
 _
 --------------------------
-Frontend \ User Interface
+Frontend\UI: JS|HTML|CSS 
 --------------------------
-Backend \ Flask Server
+Backend: Flask|Python  
 --------------------------
-Database \ MySQL 
+Database: MySQL  
 --------------------------
 
 
