@@ -10,3 +10,4 @@ mydb = mysql.connector.connect(host='localhost',
 mycursor = mydb.cursor()
 
 mycursor.execute('SELECT * FROM users')
+
